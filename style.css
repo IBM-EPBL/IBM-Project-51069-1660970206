@@ -1,56 +1,25 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:700&display=swap');
-*{
-	padding: 0;
-	margin: 0;
-}
-.wrapper{
-	background: url(sneh.jpg) no-repeat;
-	background-size: cover;
-	height: 100vh;
+body {
+    margin: 0px;
+    padding:0px;
+    position: relative;
+    background-color: #368a99;
+    font-family: sans-serif;
+    font-size: 18px;
+}   
+
+navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+/*     font-size: 12px; */
+    letter-spacing: 4px;
+   background-color: #03263D;
 }
 
-.wrapper .center{
-	position: absolute;
-	left: 50%;
-	top: 55%;
-	transform: translate(-50%, -50%);
-	font-family: sans-serif;
-	user-select: none;
-}
-.center h1{
-	color: white;
-	font-size: 70px;
-	width: 900px;
-	font-weight: bold;
-	text-align: center;
-}
-.center h4{
-	color: white;
-	font-size: 20px;
-	font-weight: bold;
-	margin-top: 10px;
-	width: 885px;
-	text-align: center;
-}
-.center .buttons{
-	margin: 35px 280px;
-}
-.buttons button{
-	height: 50px;
-	width: 150px;
-	font-size: 18px;
-	font-weight: 600;
-	color: #008080;
-	background: #FFFFFF;
-	outline: none;
-	cursor: pointer;
-	border: 1px solid #FFFFFF;
-	border-radius: 25px;
-	transition: .4s;
-}
-.buttons .btn2{
-	margin-left: 25px;
-}
-.buttons button:hover{
-	background: #C0C0C0;
+#left-img {
+  margin-left: 80px;
+  margin-right: 10px;
+  margin-top: 80px;
 }
