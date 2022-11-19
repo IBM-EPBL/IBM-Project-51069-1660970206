@@ -7,7 +7,7 @@ Smart Fashion Recommender Application
 
 ---
 
-**Team ID :** PNT2022TMID38912
+**Team ID :** PNT2022TMID43850
 
 **Team Size :** 4
 
@@ -16,7 +16,6 @@ Smart Fashion Recommender Application
  - [Team member : SNEHA PS]
  - [Team member : ANEESHA MH]
 
--
 
 ## Project Design & Planning
 - [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
