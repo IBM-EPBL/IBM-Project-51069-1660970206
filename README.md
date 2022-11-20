@@ -18,11 +18,10 @@ Smart Fashion Recommender Application
 
 
 ## Project Design & Planning
-- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
-- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
-- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
-- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-40862-1660636795/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
-
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-51069-1660970206/tree/main/PROJECT%20DESIGN%20AND%20PLANNING/IDEATION%20PHASE)
+- [Project Design Phase 1](https://github.com/IBM-EPBL/IBM-Project-51069-1660970206/tree/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%201)
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-51069-1660970206/tree/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20DESIGN%20PHASE%202)
+- [Project Planning](https://github.com/IBM-EPBL/IBM-Project-51069-1660970206/tree/main/PROJECT%20DESIGN%20AND%20PLANNING/PROJECT%20PLANNING)
 ## Tech Stack
 
 **Frontend:** Html+Css+JavaScript
