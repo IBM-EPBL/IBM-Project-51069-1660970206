@@ -11,10 +11,10 @@ Smart Fashion Recommender Application
 
 **Team Size :** 4
 
- - [Team Leader : SNEHA NT]
- - [Team member : PADMA DINESH]
- - [Team member : SNEHA PS]
- - [Team member : ANEESHA MH]
+ - Team Leader : SNEHA NT
+ - Team member : PADMA DINESH
+ - Team member : SNEHA PS
+ - Team member : ANEESHA MH
  
  
 ##  ASSIGNMENT FINISHED
