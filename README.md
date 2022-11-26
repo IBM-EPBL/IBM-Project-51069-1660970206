@@ -21,7 +21,7 @@ Smart Fashion Recommender Application
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
-- [ ] ASSIGNMENT 4
+- [x] ASSIGNMENT 4
 
 <hr>
 
